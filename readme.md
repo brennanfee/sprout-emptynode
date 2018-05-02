@@ -1,6 +1,6 @@
 # sprout-emptynode
 
-Sprout template to create an empty starter project based on Node.
+Sprout template to create an empty Node project.
 
 ## Overview
 

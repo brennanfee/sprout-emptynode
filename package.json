@@ -1,7 +1,7 @@
 {
     "name": "sprout-emptynode",
     "version": "0.0.1",
-    "description": "Sprout template to create an empty starter project based on Node",
+    "description": "Sprout template to create an empty Node project",
     "repository": "github:brennanfee/sprout-emptynode",
     "homepage": "https://github.com/brennanfee/sprout-emptynode#readme",
     "bugs": "https://github.com/brennanfee/sprout-emptynode/issues",
